@@ -48,6 +48,7 @@ LinkedIn Profiles of Hackathon Hackers Facebook group members
 - [Theodore Li](https://www.linkedin.com/in/theodorexli)
 - [Thomas So](https://www.linkedin.com/in/thomasmso)
 - [Varatep Buranintu](https://www.linkedin.com/in/varatep)
+- [Vardhman Mehta](https://www.linkedin.com/in/vardhmanm)
 - [Vincent Sheu](https://www.linkedin.com/in/vincentsheu)
 - [Vishrut Reddi](https://www.linkedin.com/in/vishrutreddi)
 - [Vivek Kotecha](https://www.linkedin.com/in/vbkotecha)
